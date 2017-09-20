@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPP-LABII", "RPP-LABII\RPP-LABII.csproj", "{06887208-F4AE-48D0-8092-B1938F2AB79E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06887208-F4AE-48D0-8092-B1938F2AB79E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06887208-F4AE-48D0-8092-B1938F2AB79E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06887208-F4AE-48D0-8092-B1938F2AB79E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06887208-F4AE-48D0-8092-B1938F2AB79E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

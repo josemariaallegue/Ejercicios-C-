@@ -1,0 +1,2 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\RPP-LABII\RPP-LABII\bin\Debug\RPP-LABII.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\RPP-LABII\RPP-LABII\obj\Debug\RPP-LABII.csprojResolveAssemblyReference.cache
