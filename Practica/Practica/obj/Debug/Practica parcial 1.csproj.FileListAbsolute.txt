@@ -1,0 +1,7 @@
+c:\users\inudzuka\source\repos\Practica\Practica\obj\Debug\Practica parcial 1.csprojResolveAssemblyReference.cache
+c:\users\inudzuka\source\repos\Practica\Practica\obj\Debug\Practica parcial 1.csproj.CoreCompileInputs.cache
+c:\users\inudzuka\source\repos\Practica\Practica\obj\Debug\Practica.exe
+c:\users\inudzuka\source\repos\Practica\Practica\obj\Debug\Practica.pdb
+c:\users\inudzuka\source\repos\Practica\Practica\bin\Debug\Practica.exe.config
+c:\users\inudzuka\source\repos\Practica\Practica\bin\Debug\Practica.exe
+c:\users\inudzuka\source\repos\Practica\Practica\bin\Debug\Practica.pdb
